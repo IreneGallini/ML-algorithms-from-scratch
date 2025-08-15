@@ -8,5 +8,4 @@ Description: Contains TV advertising spend (in thousands of dollars) and corresp
 
 ## Tutorial Reference
 [Implementing Linear Regression from Scratch | YouTube](https://www.youtube.com/watch?v=Jj7WD71qQWE&t=270s)  
-Author: devzohaib
 
